@@ -1,0 +1,24 @@
+{
+  "name": "workbook-progress-tracker",
+  "version": "0.0.1",
+  "description": "script to track progress across all nodeschool workshops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "nodeschool"
+  ],
+  "author": "Gautam Arora",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2",
+    "chalk": "^1.1.1",
+    "inquirer": "^0.11.0",
+    "lodash": "^3.10.1",
+    "superagent": "^1.4.0",
+    "yargs": "^3.27.0"
+  }
+}
