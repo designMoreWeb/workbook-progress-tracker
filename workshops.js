@@ -185,12 +185,6 @@ module.exports = {
       track: "electives",
     },
     {
-      name: "promise-it-wont-hurt",
-      owner: "stevekane",
-      menu: "contents/exercises",
-      track: "electives",
-    },
-    {
       name: "IntroToWebGLWithThreeJS",
       owner: "alexmackey",
       menu: "contents/exercises",
